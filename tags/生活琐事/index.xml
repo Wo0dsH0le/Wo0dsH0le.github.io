@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>生活琐事 on 树洞里的秘密</title>
+    <title>生活琐事 on 百年呓语</title>
     <link>https://wo0dsh0le.github.io/tags/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B/</link>
-    <description>Recent content in 生活琐事 on 树洞里的秘密</description>
+    <description>Recent content in 生活琐事 on 百年呓语</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Oct 2019 09:31:00 +0800</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>固化作息</title>
-      <link>https://wo0dsh0le.github.io/daily-schedule/</link>
+      <link>https://wo0dsh0le.github.io/post/daily-schedule/</link>
       <pubDate>Mon, 28 Oct 2019 09:31:00 +0800</pubDate>
       
-      <guid>https://wo0dsh0le.github.io/daily-schedule/</guid>
+      <guid>https://wo0dsh0le.github.io/post/daily-schedule/</guid>
       <description>用 24 小时每天分割的人生，像极了从《EOPL》里学会的递归。
 我老是不喜欢遵循惯性，结果这种观念打破了我的坚持，也引来了无规律的混乱。
 人生递归就是每天的复制，但它之所以能呈现最复杂的结果，不在于这种机械而绝望的重复本身，而在于它内部的众多分支。
@@ -33,10 +33,10 @@
     
     <item>
       <title>2003-生活琐事</title>
-      <link>https://wo0dsh0le.github.io/2003/</link>
+      <link>https://wo0dsh0le.github.io/post/2003/</link>
       <pubDate>Thu, 13 Mar 2003 00:00:00 +0800</pubDate>
       
-      <guid>https://wo0dsh0le.github.io/2003/</guid>
+      <guid>https://wo0dsh0le.github.io/post/2003/</guid>
       <description> 0-固化作息 [1-厨房] [2-厕所]  </description>
     </item>
     

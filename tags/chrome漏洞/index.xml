@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chrome漏洞 on 树洞里的秘密</title>
+    <title>Chrome漏洞 on 百年呓语</title>
     <link>https://wo0dsh0le.github.io/tags/chrome%E6%BC%8F%E6%B4%9E/</link>
-    <description>Recent content in Chrome漏洞 on 树洞里的秘密</description>
+    <description>Recent content in Chrome漏洞 on 百年呓语</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Mar 1993 00:00:00 +0800</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>CVE-2019-5786笔记</title>
-      <link>https://wo0dsh0le.github.io/b0/</link>
+      <link>https://wo0dsh0le.github.io/post/b0/</link>
       <pubDate>Sat, 13 Mar 1993 00:00:00 +0800</pubDate>
       
-      <guid>https://wo0dsh0le.github.io/b0/</guid>
+      <guid>https://wo0dsh0le.github.io/post/b0/</guid>
       <description>CVE-2019-5786笔记 [TOC]
 0.参考blog阅读 链接：https://blog.exodusintel.com/2019/03/20/cve-2019-5786-analysis-and-exploitation/
 这一部分基本是偏翻译性质的记录。

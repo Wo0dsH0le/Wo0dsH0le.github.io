@@ -13,10 +13,10 @@
     
     <item>
       <title>我注虎书</title>
-      <link>https://wo0dsh0le.github.io/post/tiger_start/</link>
+      <link>https://wo0dsh0le.github.io/temp_post/tiger_start/</link>
       <pubDate>Wed, 26 Jun 2019 13:34:00 +0800</pubDate>
       
-      <guid>https://wo0dsh0le.github.io/post/tiger_start/</guid>
+      <guid>https://wo0dsh0le.github.io/temp_post/tiger_start/</guid>
       <description>我注虎书 [TOC]
 0.赘言 0.程序语言大略 粗读了《EOPL》、《虎书》后，对程序语言有了一个大致的认识，小结如下。
 两部分
@@ -42,10 +42,10 @@ PL实现相比设计，区别主要是在 AST之后，由于工程要求需要�
     
     <item>
       <title>《虎书》粗读随记</title>
-      <link>https://wo0dsh0le.github.io/post/tiger_c/</link>
+      <link>https://wo0dsh0le.github.io/temp_post/tiger_c/</link>
       <pubDate>Mon, 20 May 2019 20:00:00 +0800</pubDate>
       
-      <guid>https://wo0dsh0le.github.io/post/tiger_c/</guid>
+      <guid>https://wo0dsh0le.github.io/temp_post/tiger_c/</guid>
       <description>《虎书》 1.绪论 理解和实现大型软件工程中应注意其：基本抽象（模块）和接口。
 编译器的各个阶段和接口
 语法、词法分析的工具（Yacc-Bison、Lex-Flex），涉及的抽象是：上下文无关文法、正则表达式

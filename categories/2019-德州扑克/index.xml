@@ -6,45 +6,10 @@
     <description>Recent content in 2019-德州扑克 on 百年呓语</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://wo0dsh0le.github.io/categories/2019-%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>《Easy Game》笔记</title>
-      <link>https://wo0dsh0le.github.io/posts/1-easy-game%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://wo0dsh0le.github.io/posts/1-easy-game%E7%AC%94%E8%AE%B0/</guid>
-      <description>[TOC]
-基础部分 vol.1&amp;amp;2 下注理由&amp;amp;消除理由3 小结 差距在于对自我的提问和正确的回答。
-bet/raise reasons：
- Value：让更差的牌call。不只是因为你可能有最好的牌。 Bluff：让更好的牌fold。不只是因为你没有希望获胜。  reason-1&amp;amp;2都是源于对方的错误。而人的天性使得更容易犯call的错误，而不是fold的错误。
-例：KQo raise，A75r，c-bet一个不会flop对pair fold的松弱对手，why？
-bet/raise reasons:
-Dead Money：让无论什么牌fold，以获取pot。  解释：
-  剥削对手底池权益。
-比如6outs。
-  死钱大到足够补偿被call的损失。
-比如深筹翻前n-bet，大量死钱使得较小成功率即可获利。
-  对抗更激烈的局中，bluff、边缘牌的投入等效于死钱。
-  很少作为主要原因，更多是对原因1、2的补充。
-nuts听牌的bet、更少价值面的bet、翻前
-  保护，是bet的结果，非理由：
-QsTs9c-QQ。赢很多牌，保护是需要的，但不是初衷。
-Qh9h3c-66，太多听牌（AJs）和66实际上是55开，因为牌力太弱不需要保护，bet主要是为死钱（AT），次要为thin value（A4s）、thin bet（77/88）。
-信息，也是bet的结果，非理由：
-QT5r-QJ，面对一个松弱对手，bet是有意义的，获得信息的同时，存在被call的value bet。在A22-KK，bet也能获得信息，但不存在value bet。但如果从获取死钱、剥削小手对权益（如果check，小手对的赔率相当于无限好）看，bet是有意义的。
-例：AQ vs 88，角色交换，翻前一方all in，都会希望对手fold。
-new reason-2:
- Bluff：为了让对方错误的fold。  具体而言，“错误”的含义是是混合了纯bluff和剥削对方权益两方面。这种情况下，对手是可以依靠底池权益反bluff使我们fold的。
-新的reason拓宽了bluff的定义，使得bet不再value/bluff这么两极化，bluff的概念出现在了更多场景中。比如J83-66的raise可能并不坏，我们由此开始了合理的侵略性。
-最终bet/raise reasons:
- Value：让更差的牌call。不只是因为你可能有最好的牌。 Bluff：为了让对方错误的fold。  思考 从前2章开始，就觉得和已经粗读过的《无限德州扑克进阶指南》可能属于一类书。它们关注从“概念”来理解这个游戏，而不是具体的技巧。有道无术，术尚可求也。
-但《easy game》这两章的理解可能没《进阶指南》好，不过德扑本来就是未解决的，不同级别场景的应对也是变化的，不存在绝对的落后、错误。早些时候的书，也有其意义。
-我觉得这里的混乱不在于“死钱”这个万金油的辅助砝码的引入，而是“bet/raise理由”这个话题的抽象层次太高了。而德扑中还有形象、位置、筹码量等因素会混合起来影响这个话题。因此，话题的答案注定是一种中庸、参考基准性质的形式。而《easy game》中的理由定义得太绝对了。</description>
-    </item>
     
     <item>
       <title>玩家档案</title>
@@ -53,15 +18,11 @@ new reason-2:
       
       <guid>https://wo0dsh0le.github.io/posts/0-%E7%8E%A9%E5%AE%B6%E6%A1%A3%E6%A1%88/</guid>
       <description>[TOC]
-大满贯 &amp;mdash;&amp;mdash;fish player &amp;mdash;&amp;mdash;good player &amp;mdash;&amp;mdash;temp player 翘普等死 ip j对 跟3b t22 cr推200
-古尔单 不信13% ；连续2or bb 66 3b 推犹豫4b
-被我aa3b bb66打推 aq 3b小o tpA bet tc r半
-7天 &amp;mdash;&amp;mdash;fish player 大力出奇迹 现在很少or
-征服 tk cor aqk跟半 t两对单j顺 跟对手套支付
-林子 输 jqs 盲位推100+ mp aqs l bb or 推130
-&amp;mdash;&amp;mdash;good player &amp;mdash;&amp;mdash;temp player 老邪 cor 低面跟薄range宽，two barrel弃，op危险面r不偷满有牌
-ip l aa33 f跟tch偷 170 str mp 77 3l接bb推
-op 89s cor 低面中对听卡顺跟34 t出花c r顺c</description>
+老街 小胖伊-33/7/1/55 +10BB 34% 松call 深多l Qh明三过度支付 700
+小-36/8/1.3/36 -11BB 30% 松call 赢，隔离steal，46/13/1/35 32% hj 28s steal 45s-call-open-3b spr1 Jh 接推
+T-beg-34/6/1.3/54 +65BB 38% 吃虾米-48/8/2/73？ -30BB 39% 松call鱼 hj 66 steal 跟min-3b 听顺跟半-c-c a8 l-call tptk多人低干大池 db*1 跟spr1
+麦当劳-20/7/2/66？ + 60% 我纯属虚构-18/10/1.5/52? 44% +15BB but Q6s open 3f低 t听跟1/2 r2/3偷 河豚有毒-36/5/1.5/35 -4BB 30% Tiantianbuyu-54/9/1/55 -10BB 30% call raise强，river nuts极化下注，赢深cb74，多听tp db
+紧紧紧-30/11/2.8/53 +60BB 42% but j8s min-3b 48/8 低中对半-c-c  神奇美队-26/5/1/33 34% +35BB 把握时机-26/8/2.</description>
     </item>
     
   </channel>
